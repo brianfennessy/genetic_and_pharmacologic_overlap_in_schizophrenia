@@ -32,38 +32,71 @@ Access: Public
 ===========================================
 
 Data: Anatomical Therapeutic Chemical Classification System (ATC)
+
 Version: 2014
+
 Source: https://www.whocc.no/atc/application_form/
+
 Access: By request
 
+===========================================
+
 Data: DrugBank
+
 Version: 5.1.1
+
 Source: https://go.drugbank.com/releases
+
 Access: Account required
 
+===========================================
+
 Data: Similarity Ensemble Approach (SeaChange)
+
 Version: January 13th, 2014 release
+
 Source: https://seachangepharma.com/
+
 Access: Private - sent from company individually
 
+===========================================
+
 Data: RxNorm
+
 Version: September 4th, 2018 release
+
 Source: https://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormarchive.html
+
 Access: Account Required
 
+===========================================
+
 Data: Medical Dictionary for Regulatory Activities (MedDRA)
+
 Version: v20
+
 Source: https://apps.meddra.org/selfservice/
+
 Access: Organization access required
 
+===========================================
+
 Data: Psychiatric Genomics Consortium 3 (PGC3)
+
 Version: PrediXcan - Dorsolateral Prefrontal Cortex
+
 Source: https://www.medrxiv.org/content/10.1101/2020.09.12.20192922v1
+
 Access: SNPs are public (supplementary table 3)
 
+===========================================
+
 Data: Schizophrenia Exome Meta-Analysis Consortium (SCHEMA)
+
 Version: July 29th, 2019 release
+
 Source: https://schema.broadinstitute.org/results
+
 Access: Public
 
 ====================================================================================================================================================================================
