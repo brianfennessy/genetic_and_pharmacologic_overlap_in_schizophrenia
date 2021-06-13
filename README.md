@@ -1,13 +1,6 @@
 # genetic_and_pharmacologic_overlap_in_schizophrenia
-Publicly accessible code for paper: "Mechanistic overlap between genetic risk and pharmacologic modulation of psychosis"
 
-====================================================================================================================================================================================
-
-Hello! Thank you for reading. We hope you enjoyed our paper. If you are looking to reproduce our results, there are several datasets that you need to download first.
-
-====================================================================================================================================================================================
-
-The data sets that we start with are listed below. A link is provided where you can download each data set. We have also indicated whether the data is open access, or if you must register with the respective organization to access the data.
+Hello! Thank you for reading. We hope you enjoyed our paper, "Mechanistic overlap between genetic risk and pharmacologic modulation of psychosis." If you are looking to reproduce our results, there are several datasets that you need to download first. The data sets that we start with are listed below. A link is provided where you can download each data set. We have also indicated whether the data is open access, or if you must register with the respective organization to access the data.
 
 ===========================================
 
