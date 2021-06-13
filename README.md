@@ -9,15 +9,27 @@ Hello! Thank you for reading. We hope you enjoyed our paper. If you are looking 
 
 The data sets that we start with are listed below. A link is provided where you can download each data set. We have also indicated whether the data is open access, or if you must register with the respective organization to access the data.
 
+===========================================
+
 Data: VigiBase
-  Version: December 1st, 2016
-  Source: https://www.who-umc.org/whodrug/access-tools/download-area/
-  Access: Valid WHODrug Global subscription and a personal UMC username and password required
+
+Version: December 1st, 2016
+
+Source: https://www.who-umc.org/whodrug/access-tools/download-area/
+
+Access: Valid WHODrug Global subscription and a personal UMC username and password required
+
+===========================================
 
 Data: Side Effect Resource (SIDER)
+
 Version: 4.1
+
 Source: http://sideeffects.embl.de/download/
+
 Access: Public
+
+===========================================
 
 Data: Anatomical Therapeutic Chemical Classification System (ATC)
 Version: 2014
