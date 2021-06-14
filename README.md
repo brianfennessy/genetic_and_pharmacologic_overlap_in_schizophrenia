@@ -106,15 +106,13 @@ Section Four: Identifying VigiBase propsychotic drugs.
 
 Section Five: Identifying propsychotic and antipsychotic drug targets.
 
-Section Six: Identifying significant propsychotic and antipsychotic drug targets (those hit more frequently than by chance).
+Section Six: Identifying significant propsychotic and antipsychotic drug targets (those hit more frequently than by chance) and evaluating overlap between propsychotic and antipsychotic significant targets (both with and without central nervous system drugs).
 
-Section Seven: Evaluating overlap between propsychotic and antipsychotic significant targets (both with and without central nervous system drugs).
+Section Seven: Identifying significant propsychotic and antipsychotic drug-target mechanisms (those occurring more frequently than by chance).
 
-Section Eight: Identifying significant propsychotic and antipsychotic drug-target mechanisms (those occurring more frequently than by chance).
+Section Eight: Evaluating overlap between propsychotic or antipsychotic drug targets with rare or common variants implicated in schizophrenia risk.
 
-Section Nine: Evaluating overlap between propsychotic or antipsychotic drug targets with rare or common variants implicated in schizophrenia risk.
-
-Section Ten: Creation of final results table.
+Section Nine: Creation of final results table.
 
 ====================================================================================================================================================================================
 
