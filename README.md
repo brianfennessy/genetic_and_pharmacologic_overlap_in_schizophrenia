@@ -94,7 +94,7 @@ Access: Public
 
 ====================================================================================================================================================================================
 
-In terms of the code for this project, our approach can be broken down into eleven major sections including an initial section for in-house functions. These sections are outlined and briefly described below. The section names numbers correspond to folders in the GitHub directory. In each section folder we have provided the code we used to produce the results in our paper. Happy reproducing!
+In terms of the code for this project, our approach can be broken down into nine major sections including an initial section for in-house functions. These sections are outlined and briefly described below. The section numbers correspond to folders in the GitHub directory. In each section folder we have provided the code we used to produce the results in our paper.
 
 Section One: In-house functions created by Alexander Charney.
 
