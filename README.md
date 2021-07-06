@@ -2,7 +2,13 @@
 
 Hello! Thank you for reading. We hope you enjoyed our paper, "Mechanistic overlap between genetic risk and pharmacologic modulation of psychosis." If you are looking to reproduce our results, there are several datasets that you need to download first. The data sets that we start with are listed below. A link is provided where you can download each data set. We have also indicated whether the data is open access, or if you must register with the respective organization to access the data.
 
-While we provide the links to each data set, all the raw files you will need are included in the first section of our code, "1_inhouse_functions_and_setup." To recreate our results, download all nine sections and then work through each section in numerical order. Directories and subdirectories will be created for you. All you need to do is run the code in order!
+While we provide the links to each data set, all the raw files you will need are included in the first section of our code, "1_inhouse_functions_and_setup."
+
+To recreate our results, download all nine sections and then work through each section in numerical order.
+
+The only two files you do not need to touch are "myfunctions.r" and "raw_data.zip," found in the section labeled: "1_inhouse_functions_and_setup."
+
+Directories and subdirectories will be created for you. All you need to do is run the code in order!
 
 ===========================================
 
